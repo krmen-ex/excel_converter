@@ -1,0 +1,21 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Local Claude settings
+.claude/
+
+# Sample data (개인 발주 데이터 보호)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# Temp
+*.tmp
+*.log
